@@ -1,0 +1,8 @@
+name = "bitrix24-worker"
+compatibility_date = "2025-08-19"
+main = "index.js"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "BITRIX24_SETTINGS"
+id = "91c08f1a241d41539f80123e51b4c14f"

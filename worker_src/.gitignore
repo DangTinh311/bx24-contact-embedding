@@ -1,0 +1,11 @@
+# .gitignore for Cloudflare Worker project
+
+# Environment variables
+.env
+
+# Node.js modules
+/node_modules
+
+# Wrangler build output
+/dist
+/.wrangler
